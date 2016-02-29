@@ -1,2 +1,3 @@
 # hello-world
 Just working this thang out
+I'm just a newb, I need no sympathie...
